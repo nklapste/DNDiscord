@@ -31,7 +31,7 @@ setup(
         "": ["README.md"],
     },
     install_requires=[
-        "bot.py"
+        "discord.py"
     ],
     tests_require=["pytest"],
     entry_points={
