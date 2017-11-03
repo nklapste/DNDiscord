@@ -3,13 +3,12 @@
 DND tools and management scripts for the dndiscord bot.
 
 Scripts:
-    __main__
 
 Packages:
-    dnd
 
 Modules:
-    bot
+    characters
+
 
 Config:
 
